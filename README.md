@@ -29,3 +29,6 @@ Gradient Background color with UIView transition
             self.animateGradientColor()
         })
     }
+    
+    
+<a href="https://www.youtube.com/watch?v=86smeSdxjic">Reference</a>
